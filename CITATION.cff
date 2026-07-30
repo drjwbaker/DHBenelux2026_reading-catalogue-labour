@@ -14,7 +14,7 @@ authors:
     affiliation: University of Southampton
     orcid: "https://orcid.org/0000-0002-2682-6922"
 version: "1.0.0"
-date-released: "2026-08-XX"  # set on publication
+date-released: "2026-07-30"  # set on publication
 repository-code: "https://github.com/drjwbaker/DHBenelux2026_reading-catalogue-labour"  # confirm repo name before creating
 license: MIT              # code; derived data are CC0-1.0 (see LICENSE-DATA.md)
 keywords:

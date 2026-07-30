@@ -9,7 +9,7 @@ DHBenelux2026_reading-catalogue-labour/
 ├── README.md                  this file
 ├── DATASHEET.md               datasheet for the dataset as used (Alkemade et al. 2025 model)
 ├── LICENSE                    MIT (code)
-├── LICENSE-DATA.md            CC0 (derived data and figures) + source-rights note
+├── LICENSE-DATA.md            CC0 1.0 (derived data and figures)
 ├── CITATION.cff               how to cite
 ├── code/                      analysis code
 │   ├── pairwise_comparison_v5.ipynb     pairwise text similarity (MinHash–LSH + SequenceMatcher)
@@ -56,7 +56,7 @@ Derived files carry the run timestamp of the analysis that produced them (`YYYYM
 
 ## Licence
 
-Code is released under the MIT Licence (`LICENSE`). Derived data are released under CC0 1.0 (`LICENSE-DATA.md`), matching the licence of the NLS source data.
+Code is released under the MIT Licence (`LICENSE`). Derived data and figures are released under CC0 1.0 (`LICENSE-DATA.md`), matching the licence of the NLS source data; source-rights and attribution notes are in `DATASHEET.md` (Distribution and licence).
 
 ## Citation
 

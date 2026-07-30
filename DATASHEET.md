@@ -37,8 +37,8 @@ Suited to: analysis of cataloguing practice and descriptive conventions; catalog
 ## Distribution and licence
 
 - Source data: **CC0 1.0** (per the NLS readme), from https://doi.org/10.34812/05y2-xv88 — not redistributed here (size), fetched at reproduction time.
-- Derived data in this repository: **CC0 1.0** (`LICENSE-DATA.md`).
-- Code: **MIT** (`LICENSE`).
+- Derived data and figures in this repository: **CC0 1.0** (`LICENSE-DATA.md` carries the licence text). The underlying catalogue records are National Library of Scotland Data Foundry material, themselves CC0; this repository adds no further restriction. Attribution to the NLS as source of the underlying records, and citation of this repository and the accompanying paper (`CITATION.cff`), are appreciated though not legally required under CC0.
+- Code (`code/` and `data-prep/`): **MIT** (`LICENSE`).
 
 ## Maintenance
 
