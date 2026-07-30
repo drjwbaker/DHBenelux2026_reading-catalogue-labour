@@ -1,0 +1,207 @@
+── Gateway node 1 of 15 ─────────────────────
+Community: C4  |  Betweenness: 0.000173  |  Neighbour communities: 1
+Record: (filmRef)T0105
+URL:    http://movingimage.nls.uk/film/T0105
+Title:  [ALEXANDRA PARK, GLASGOW ]
+Date:   1974.
+Extent: (2:40min) : 
+
+Description:
+  non-fiction
+  Producer, Scottish Television.
+  Shots of the park.
+  SHOTLIST: Shots of the park (.33); Trims (2.40).
+────────────────────────────────────────────────────────────
+
+── Gateway node 2 of 15 ─────────────────────
+Community: C0  |  Betweenness: 0.000149  |  Neighbour communities: 2
+Record: (filmRef)20580
+URL:    http://movingimage.nls.uk/film/20580
+Title:  DÈ A-NIS?: Series 5
+Date:   1998.
+
+Description:
+  non-fiction; television children
+  Producer, BBC Scotland.
+  Gaelic children's magazine, with music, live chat and a whole load of laughs. [Source - BBC Alba] Programme 24 Special 1 &amp; Na Magairean
+────────────────────────────────────────────────────────────
+
+── Gateway node 3 of 15 ─────────────────────
+Community: C4  |  Betweenness: 0.000131  |  Neighbour communities: 1
+Record: (filmRef)N0024
+URL:    http://movingimage.nls.uk/film/N0024
+Title:  [CARICATURE THEATRE]
+Date:   1979.
+Extent: (2:36 mins) : 
+
+Description:
+  non-fiction
+  Producer, Grampian Television.
+  Shots of the Caricature Theatre in action.
+  SHOTLIST: Shots of the Carricuture Theatre in action.
+────────────────────────────────────────────────────────────
+
+── Gateway node 4 of 15 ─────────────────────
+Community: C4  |  Betweenness: 0.000131  |  Neighbour communities: 1
+Record: (filmRef)N0177
+URL:    http://movingimage.nls.uk/film/N0177
+Title:  [GOLF CHAMPIONSHIP - ABERDEEN]
+Date:   1980.
+Extent: (2:50 mins) : 
+
+Description:
+  non-fiction; television news
+  Producer, Grampian Television.
+  Shots of the Golf Championship in Aberdeen.
+  SHOTLIST: Shots of the Golf Championship in Aberdeen.
+────────────────────────────────────────────────────────────
+
+── Gateway node 5 of 15 ─────────────────────
+Community: C4  |  Betweenness: 0.000124  |  Neighbour communities: 1
+Record: (filmRef)5267
+URL:    http://movingimage.nls.uk/film/5267
+Title:  [CANBERRA SHIP]
+Date:   1969.
+Extent: (0:41 min) : 
+
+Description:
+  non-fiction; television news
+  Producer, [p.c. Templar Film Studios].
+  Shots of the 'Canberra'.
+  SHOTLIST: Shots of 'Canberra' Ship on river Clyde ? (0.42)
+────────────────────────────────────────────────────────────
+
+── Gateway node 6 of 15 ─────────────────────
+Community: C4  |  Betweenness: 0.000110  |  Neighbour communities: 1
+Record: (filmRef)T1116
+URL:    http://movingimage.nls.uk/film/T1116
+Title:  [BOB HOPE INTERVIEW]
+Date:   1961.
+
+Description:
+  non-fiction
+  Producer, Scottish Television.
+  See shotlist below.
+  SHOTLIST: Interview with Bob Hope (2.00)
+────────────────────────────────────────────────────────────
+
+── Gateway node 7 of 15 ─────────────────────
+Community: C5  |  Betweenness: 0.000105  |  Neighbour communities: 1
+Record: (filmRef)14844
+URL:    http://movingimage.nls.uk/film/14844
+Title:  GLORAICH AINM
+
+Description:
+  non-fiction; religion television religion
+  Producer, Media Nan Eilean.
+  A service from Shawbost Free Church on the Isle of Lewis
+────────────────────────────────────────────────────────────
+
+── Gateway node 8 of 15 ─────────────────────
+Community: C5  |  Betweenness: 0.000102  |  Neighbour communities: 1
+Record: (filmRef)15374
+URL:    http://movingimage.nls.uk/film/15374
+Title:  AR N-ARAN LÀITHEIL
+Date:   2002.
+Extent: (40:00 minsc) : 
+
+Description:
+  non-fiction
+  Producer, sp. CTG.
+  Worship service from Back Free Church on the Isle of Lewis
+────────────────────────────────────────────────────────────
+
+── Gateway node 9 of 15 ─────────────────────
+Community: C4  |  Betweenness: 0.000092  |  Neighbour communities: 1
+Record: (filmRef)T1149
+URL:    http://movingimage.nls.uk/film/T1149
+Title:  [CLIMBING IN THE CUILLINS]
+
+Description:
+  non-fiction
+  Producer, Scottish Television.
+  See shotlist below.
+  SHOTLIST: gv's of a couple of men rock climbing in the Cuillins(2.19).
+────────────────────────────────────────────────────────────
+
+── Gateway node 10 of 15 ─────────────────────
+Community: C4  |  Betweenness: 0.000090  |  Neighbour communities: 1
+Record: (filmRef)T1998
+URL:    http://movingimage.nls.uk/film/T1998
+Title:  [SKY DIVING]
+Date:   1968.
+
+Description:
+  non-fiction
+  Producer, STV.
+  See shotlist below.
+  SHOTLIST: Gvs of a formation skydiving team in the air (2.06) [Shotlisted at 24 fps]
+────────────────────────────────────────────────────────────
+
+── Gateway node 11 of 15 ─────────────────────
+Community: C2  |  Betweenness: 0.000087  |  Neighbour communities: 1
+Record: (filmRef)14266
+URL:    http://movingimage.nls.uk/film/14266
+Title:  TELEFIOS NA SEACHDAINN
+Date:   1999.
+Extent: (51:20 mins) : 
+
+Description:
+  non-fiction; television news
+  Producer, Grampian Television.
+  A weekly round up of the daily news service, concentrated mainly on Western Isles news, and Gaelic interest news stories from elsewhere [Subtitled] Programmes 317, 318. Weeks 30, 31
+────────────────────────────────────────────────────────────
+
+── Gateway node 12 of 15 ─────────────────────
+Community: C3  |  Betweenness: 0.000077  |  Neighbour communities: 1
+Record: (filmRef)16229
+URL:    http://movingimage.nls.uk/film/16229
+Title:  FARPAISEAN CHON-CHAORACH [Series 1]
+Date:   2008.
+
+Description:
+  non-fiction; television sport
+  Series following sheepdog trials [Source - BBC Alba] Programme 4. Lochcarron.
+────────────────────────────────────────────────────────────
+
+── Gateway node 13 of 15 ─────────────────────
+Community: C6  |  Betweenness: 0.000064  |  Neighbour communities: 1
+Record: (filmRef)21133
+URL:    http://movingimage.nls.uk/film/21133
+Title:  BEACHD: Series 1
+Date:   1999.
+Extent: (26:37 mins) : 
+
+Description:
+  non-fiction
+  Producer, Kenyon Communications.
+  Panel show discussing the 20th century and the expectations for the 21st. Programme 7 in the series.
+────────────────────────────────────────────────────────────
+
+── Gateway node 14 of 15 ─────────────────────
+Community: C2  |  Betweenness: 0.000062  |  Neighbour communities: 1
+Record: (filmRef)14383
+URL:    http://movingimage.nls.uk/film/14383
+Title:  TELEFIOS SPECIAL
+Date:   1999.
+Extent: (54:25 mins) : 
+
+Description:
+  non-fiction
+  Producer, Grampian Television.
+  'Air an oir' A special edition of the daily news service, concentrated mainly on Western Isles news, and Gaelic interest news stories from elsewhere
+────────────────────────────────────────────────────────────
+
+── Gateway node 15 of 15 ─────────────────────
+Community: C4  |  Betweenness: 0.000043  |  Neighbour communities: 1
+Record: (filmRef)T0542
+URL:    http://movingimage.nls.uk/film/T0542
+Title:  [NEW STAND AT CELTIC PARK]
+Date:   1971.
+Extent: (:39min) : 
+
+Description:
+  non-fiction
+  Producer, Scottish Television.
+  General shots of new stand and workmen.
+  SHOTLIST: No credits. General shots of new stand and workmen (.39).

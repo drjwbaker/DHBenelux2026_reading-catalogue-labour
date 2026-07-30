@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite both the paper and this repository."
+title: "What Catalogues Say About Their Own Making: data and code"
+abstract: >-
+  Analysis code and derived data for the DH Benelux Journal article "What Catalogues
+  Say About Their Own Making: reading catalogue data as evidence of its production".
+  Reads the catalogue of the National Library of Scotland's Moving Image Archive as
+  evidence of the labour, resourcing, and institutional conditions that produced it,
+  via pairwise text similarity, community detection, and description-structure features.
+type: dataset
+authors:
+  - family-names: Baker
+    given-names: James
+    affiliation: University of Southampton
+    orcid: "https://orcid.org/0000-0002-2682-6922"
+version: "1.0.0"
+date-released: "2026-08-XX"  # set on publication
+repository-code: "https://github.com/drjwbaker/DHBenelux2026_reading-catalogue-labour"  # confirm repo name before creating
+license: MIT              # code; derived data are CC0-1.0 (see LICENSE-DATA.md)
+keywords:
+  - cataloguing
+  - catalogues as data
+  - cultural heritage
+  - labour
+  - National Library of Scotland
+  - Moving Image Archive
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "What Catalogues Say About Their Own Making: reading catalogue data as evidence of its production"
+  authors:
+    - family-names: Baker
+      given-names: James
+      orcid: "https://orcid.org/0000-0002-2682-6922"
+  journal: "DH Benelux Journal"
+  year: 2026
