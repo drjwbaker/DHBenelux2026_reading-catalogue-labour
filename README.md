@@ -17,6 +17,8 @@ DHBenelux2026_reading-catalogue-labour/
 │   ├── isolate_analysis_v3.ipynb        the isolate population: length, shotlisting, timecoding, TF-IDF
 │   ├── shotlist_structure_v2.ipynb      shotlist and timecode detection over descriptions
 │   ├── figure_shotlist_by_decade_v1.py  regenerates Figure 1 (reproduces caption values exactly)
+│   ├── broadcaster_summaries_v1.py      reproduces the "roughly 1,300" broadcaster-supplied summaries count
+│   ├── robustness_sweep_v1.py           re-runs community detection across thresholds and resolutions
 │   ├── community_utils.py / tfidf_utils.py / utils.py   shared functions
 │   └── requirements.txt                 pinned dependencies
 ├── data-prep/                 split_records.py + notes: NLS source → per-record files
@@ -25,6 +27,7 @@ DHBenelux2026_reading-catalogue-labour/
 │   ├── pairwise_…20260313-120649.tsv.gz     scored candidate pairs (~112 MB uncompressed)
 │   ├── communities_…20260417-152942.tsv     the 5,585 in-graph records + community assignments
 │   ├── timecode_codebook_20260317.tsv       the timecode-detection codebook
+│   ├── robustness-sweep_…20261005-122616.tsv  the community robustness sweep (one row per setting)
 │   └── centrality / TF-IDF comparison / gateway-node / bridge-scan outputs for the same run
 └── figures/                   shotlist-by-decade_20260710.png (the paper's Figure 1)
 ```
@@ -46,9 +49,14 @@ python data-prep/split_records.py
 #    code/shotlist_structure_v2.ipynb
 # 3. regenerate Figure 1:
 python code/figure_shotlist_by_decade_v1.py
+# 4. optional checks on reported figures (run from the derived data):
+python code/broadcaster_summaries_v1.py   # also needs the NLS DC XML export
+python code/robustness_sweep_v1.py
 ```
 
 The derived data are provided, so the paper's numbers can be checked without rerunning anything: the Table 2 split is `communities_…20260417-152942.tsv` against the 23,491 rows of `features_…20260313-120649.tsv`; Figure 1's values recompute from the features file alone.
+
+`robustness_sweep_v1.py` checks how far the published communities depend on the two settings of the published run (similarity threshold 0.65; Leiden modularity, equivalent to resolution 1.0). It needs only the pairwise and communities files above. It first confirms that the published settings reproduce the published partition exactly, then rebuilds the graph at thresholds 0.55–0.75 and re-runs Leiden at resolutions 0.5, 1.0, and 2.0, comparing each run with the published partition (adjusted mutual information overall, and, for the communities discussed in the paper, the share of members that stay together). It leaves `community_analysis_v21.ipynb` unchanged. Output: `derived-data/robustness-sweep_…20261005-122616.tsv`.
 
 ## A note on file names and runs
 
